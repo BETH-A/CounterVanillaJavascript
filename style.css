@@ -1,5 +1,7 @@
 body {
     background-color: #c2e4ff;
+    background-image: linear-gradient(90deg,rgba(194,228,255,1) 0%, rgba(133,201,255,1) 100%);
+
     display: flex;
     justify-content: center;
   }
